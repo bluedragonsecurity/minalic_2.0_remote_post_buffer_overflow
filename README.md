@@ -1,4 +1,7 @@
 # CVE Request: MinaliC Webserver 2.0.0 — Remote Buffer Overflow via HTTP POST
+![rce](rce.png)
+
+![rce2](rce2.png)
 
 ## Summary
 
